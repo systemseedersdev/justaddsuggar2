@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'MarkProBold';
+    font-display: swap;
+    src: url('../fonts/MarkProBold.eot');
+    src: url('../fonts/MarkProBold.eot') format('embedded-opentype'),
+         url('../fonts/MarkProBold.woff2') format('woff2'),
+         url('../fonts/MarkProBold.woff') format('woff'),
+         url('../fonts/MarkProBold.ttf') format('truetype'),
+         url('../fonts/MarkProBold.svg#MarkProBold') format('svg');
+}
+
+@font-face {
+    font-family: 'MarkProMedium';
+    font-display: swap;
+    src: url('../fonts/MarkProMedium.eot');
+    src: url('../fonts/MarkProMedium.eot') format('embedded-opentype'),
+         url('../fonts/MarkProMedium.woff2') format('woff2'),
+         url('../fonts/MarkProMedium.woff') format('woff'),
+         url('../fonts/MarkProMedium.ttf') format('truetype'),
+         url('../fonts/MarkProMedium.svg#MarkProMedium') format('svg');
+}
+
+@font-face {
+    font-family: 'SkolarLatinRegular';
+    font-display: swap;
+    src: url('../fonts/SkolarLatinRegular.eot');
+    src: url('../fonts/SkolarLatinRegular.eot') format('embedded-opentype'),
+         url('../fonts/SkolarLatinRegular.woff2') format('woff2'),
+         url('../fonts/SkolarLatinRegular.woff') format('woff'),
+         url('../fonts/SkolarLatinRegular.ttf') format('truetype'),
+         url('../fonts/SkolarLatinRegular.svg#SkolarLatinRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'MarkProLight';
+    font-display: swap;
+    src: url('../fonts/MarkProLight.eot');
+    src: url('../fonts/MarkProLight.eot') format('embedded-opentype'),
+         url('../fonts/MarkProLight.woff2') format('woff2'),
+         url('../fonts/MarkProLight.woff') format('woff'),
+         url('../fonts/MarkProLight.ttf') format('truetype'),
+         url('../fonts/MarkProLight.svg#MarkProLight') format('svg');
+}
+
+@font-face {
+    font-family: 'MarkPro';
+    font-display: swap;
+    src: url('../fonts/MarkPro.eot');
+    src: url('../fonts/MarkPro.eot') format('embedded-opentype'),
+         url('../fonts/MarkPro.woff2') format('woff2'),
+         url('../fonts/MarkPro.woff') format('woff'),
+         url('../fonts/MarkPro.ttf') format('truetype'),
+         url('../fonts/MarkPro.svg#MarkPro') format('svg');
+}
+
+
+
+
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Play_Button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="1.65281792%" y2="98.3471821%" id="linearGradient-1">
+            <stop stop-color="#5707CE" offset="0%"></stop>
+            <stop stop-color="#FA4D4E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landingpage" transform="translate(-761.000000, -7513.000000)" fill-rule="nonzero">
+            <g id="Reel" transform="translate(184.000000, 7019.000000)">
+                <g id="Showreel" transform="translate(0.000000, 182.000000)">
+                    <g id="Showreel_Player">
+                        <g id="Button_Large" transform="translate(433.000000, 312.000000)">
+                            <g id="Play_Button" transform="translate(144.000000, 0.000000)">
+                                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="60" height="60"></rect>
+                                <polygon id="Triangle" fill="url(#linearGradient-1)" transform="translate(33.000000, 31.000000) rotate(90.000000) translate(-33.000000, -31.000000) " points="33 22 43 40 23 40"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
