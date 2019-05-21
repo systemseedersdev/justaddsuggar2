@@ -93,10 +93,10 @@
                         </p>
                     </div>
                     <div class="social-icons">
-                        <a :href="optionData.social_links.instagram_link" target="_blank" aria-label="Instagram" rel="noopener"><img src="images/instagram.svg" alt="Instagram"></a>
-                        <a :href="optionData.social_links.facebook_link" target="_blank" aria-label="Facebook" rel="noopener"><img src="images/facebook.svg" alt="Facebook"></a>
-                        <a :href="optionData.social_links.youtube_link" target="_blank" aria-label="YouTube" rel="noopener"><img src="images/youtube.svg" alt="YouTube"></a>
-                        <a :href="optionData.social_links.vimeo_link" target="_blank" aria-label="Vimeo" rel="noopener"><img src="images/vimeo.svg" alt="Vimeo"></a>
+                        <a :href="optionData.social_links.instagram_link" target="_blank" aria-label="Instagram" rel="noopener"><img src="/images/instagram.svg" alt="Instagram"></a>
+                        <a :href="optionData.social_links.facebook_link" target="_blank" aria-label="Facebook" rel="noopener"><img src="/images/facebook.svg" alt="Facebook"></a>
+                        <a :href="optionData.social_links.youtube_link" target="_blank" aria-label="YouTube" rel="noopener"><img src="/images/youtube.svg" alt="YouTube"></a>
+                        <a :href="optionData.social_links.vimeo_link" target="_blank" aria-label="Vimeo" rel="noopener"><img src="/images/vimeo.svg" alt="Vimeo"></a>
                     </div>
                 </div>
             </div>

@@ -2,24 +2,12 @@ importScripts('/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/_nuxt/08cd6bce7ffe93600e41.js",
-    "revision": "10a6460d39285fe64a52f8ccfec72e47"
-  },
-  {
     "url": "/_nuxt/44e3920138c6e29f3932.js",
     "revision": "4ced3cfe5ee91c0ac54de3232f38a1c9"
   },
   {
-    "url": "/_nuxt/5a2cc6a8905163d955bc.js",
-    "revision": "7f48390e763634ba01b5cda200716239"
-  },
-  {
     "url": "/_nuxt/648e0f92997dad1f7c0e.js",
     "revision": "c63188fdd9af215e2dac62bc5f10abf0"
-  },
-  {
-    "url": "/_nuxt/7884da3e5e3840bca476.js",
-    "revision": "b5fd9cc09a313b295168e89c49a0f162"
   },
   {
     "url": "/_nuxt/7cca28791611e080d921.js",
@@ -30,8 +18,12 @@ workbox.precaching.precacheAndRoute([
     "revision": "ce84da0f89c3e3a5e0795a0add94d6b9"
   },
   {
-    "url": "/_nuxt/bc5b038c1d9787457c22.js",
-    "revision": "d385c3b12744bd702c68602d6d676dd4"
+    "url": "/_nuxt/96e9f4d0e29cec040615.js",
+    "revision": "4ff46d731ef987d382772f22856f843c"
+  },
+  {
+    "url": "/_nuxt/c4160a020e7e1e686830.js",
+    "revision": "72bd9a6cfe6a2d4490d75f13f0397902"
   },
   {
     "url": "/_nuxt/c4af91cd8b84a97fa60a.js",
@@ -46,8 +38,16 @@ workbox.precaching.precacheAndRoute([
     "revision": "8dc12114f999037acd2c7698dafe2a0b"
   },
   {
+    "url": "/_nuxt/d7a13f8f4081f2ddbf6d.js",
+    "revision": "d385c3b12744bd702c68602d6d676dd4"
+  },
+  {
     "url": "/_nuxt/f6023761f758c8fd7347.js",
     "revision": "0be56fe90c061a002c17928475825a38"
+  },
+  {
+    "url": "/_nuxt/fbdc02aa6662964f37ad.js",
+    "revision": "b38fd80bb64032c8cfa31b4e30228ebb"
   }
 ], {
   "cacheId": "Justaddsugar",
