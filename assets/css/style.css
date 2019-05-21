@@ -905,7 +905,7 @@ td {text-align: left; font-weight: normal;}
 .error-404 { text-align: center; overflow: hidden; margin: 0 0px; background: #212529; height: 100vh; display: flex; align-items: center; justify-content: center;}
 .error-404 img {max-width: 100%; width: auto; display: inline-block; vertical-align: top; }
 
-.error-500 { text-align: center; overflow: hidden; margin: 0 0px; background: #212529; height: 100vh; display: flex; align-items: center; justify-content: center;}
+.error-500 { text-align: center; overflow: hidden; margin: 0 0px; background: #212529; height: 100vh; display: flex; align-items: center; justify-content: center;flex-direction: column;}
 .error-500 h1 { font-size: 2.5rem; color: #ffffff; line-height: 3.2; }
 .error-500 p { font-size: 16px; color: #ffffff; }
 

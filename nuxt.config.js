@@ -21,7 +21,7 @@ export default {
   generate: {
     routes: async function () {
       let routes = [ '404' ];
-      await axios.get( 'http://justaddsugardev.datadazzle.com/wp/wp-json/wp/v2/case?per_page=50' )
+      await axios.get( 'https://justaddsugardev.datadazzle.com/wp/wp-json/wp/v2/case?per_page=50' )
       .then((res) => {
         var data = res.data;
         if( data != null ) {
@@ -30,7 +30,7 @@ export default {
           })
         }
       })
-      await axios.get( 'http://justaddsugardev.datadazzle.com/wp/wp-json/wp/v2/case_tags' )
+      await axios.get( 'https://justaddsugardev.datadazzle.com/wp/wp-json/wp/v2/case_tags' )
       .then((res) => {
         var data = res.data;
         if( data != null ) {
@@ -113,7 +113,7 @@ export default {
   */
   axios: {
     // See https://github.com/nuxt-community/axios-module#options
-    baseURL: "http://justaddsugardev.datadazzle.com/wp/wp-json",
+    baseURL: "https://justaddsugardev.datadazzle.com/wp/wp-json",
     requestInterceptor: (config, {store}) => {
       config.headers.common['Authorization'] = '';
       config.headers.common['Content-Type'] = 'application/x-www-form-urlencoded;application/json';
